@@ -8,3 +8,6 @@
 7-everybody: gives execute problem to all users group and others
 8-James_Bond: gives 0 permissions to owner and group but full to others
 9-John_Doe: gives full permission to user and read and executable to group and write and execute to others
+10-mirror_permissions: gives the same permissions of olleh to hello
+11-
+
