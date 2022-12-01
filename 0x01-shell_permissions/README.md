@@ -3,3 +3,5 @@
 2-groups: prints the users group
 3-new_onwer: changes the owner of a file to betty
 4-empty: creates an empty file called hello
+5-execute: adds execute permission to the owner of the file
+
