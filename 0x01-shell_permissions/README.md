@@ -10,5 +10,6 @@
 9-John_Doe: gives full permission to user and read and executable to group and write and execute to others
 10-mirror_permissions: gives the same permissions of olleh to hello
 11-directories_permissions: gives execute permissions to all subdirectories of the current directory to the owner , group owner and all other users.
-12- 
+12-dirrectory_permissions: creates a directory with 751 permission 
+13-  
 
