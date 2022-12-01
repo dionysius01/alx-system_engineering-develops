@@ -4,4 +4,5 @@
 3-new_onwer: changes the owner of a file to betty
 4-empty: creates an empty file called hello
 5-execute: adds execute permission to the owner of the file
-
+6-multiple_permissions: gives execute permission to the owner of the file and group and then read permissions to the others
+7-everybody: gives execute problem to all users group and others
