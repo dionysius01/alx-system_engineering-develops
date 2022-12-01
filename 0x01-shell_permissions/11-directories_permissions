@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chom -R + 111 *\
+sudo chom -R + 111 */
